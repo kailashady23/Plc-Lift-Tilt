@@ -43,3 +43,5 @@ Built with a teammate (Gurjot Singh) for the Pneumatics/Hydraulics/Automation co
 https://github.com/kailashady23/Plc-Lift-Tilt/blob/8b787c45052f3bac8d95d1c5e8f621cf2e3967ec/ladder-logic.md
 
 - /diagrams — pneumatic circuit diagrams
+
+https://github.com/kailashady23/Plc-Lift-Tilt/blob/1325672711cd7f03ce2f9e3af3521142e904e36d/diagrams.md
