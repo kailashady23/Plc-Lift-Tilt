@@ -39,6 +39,7 @@ Built with a teammate (Gurjot Singh) for the Pneumatics/Hydraulics/Automation co
 **Files in this repo**
 
 - /ladder-logic — full PLC rung documentation (floor requests, lift movement, tilt logic, indicators)
-  ladder-logic.md
+
+https://github.com/kailashady23/Plc-Lift-Tilt/blob/8b787c45052f3bac8d95d1c5e8f621cf2e3967ec/ladder-logic.md
 
 - /diagrams — pneumatic circuit diagrams and I/O wiring layout
